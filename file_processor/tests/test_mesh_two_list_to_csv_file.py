@@ -2,7 +2,7 @@ import sys
 import os
 import csv
 
-from hw.file_processor import mesh_two_list_to_csv_file
+from file_processor.file_processor import mesh_two_list_to_csv_file
 
 sys.path.insert(0, os.path.abspath(os.path.dirname(__file__) + "/.."))
 
