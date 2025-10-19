@@ -41,7 +41,7 @@ git commit -m "you comment"
 git push
 ```
 
-## Automatic Grading
+## Automated Grading
 This repository uses GitHub Classroom’s autograding system.
 When you push your work:
 - Tests will run automatically.
